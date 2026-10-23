@@ -31,7 +31,7 @@ Biz yosh muhandis va talabalarni shunchaki yuza dasturchi (*"kod dehqoni"*) emas
 | **[groups.ferris.uz](https://groups.ferris.uz)** | Mavzular, jamiyatlar va real-vaqt muhokamalari | 🟢 Online (Deduplicated Views) |
 | **`ferris-cli`** | Rasmiy terminal mijozi (Crates.io relizi) | 🟢 `v0.2.0` (Crates.io) |
 | **PQC BLAKE3 Integrity** | Post-Quantum kriptografik xesh zanjiri | 🔒 [PQC-V1 Active] |
-| **doc.ferris.uz** | Rasmiy "The Rust Book" kitobining o‘zbekcha tarjimasi | 📚 Ishlab chiqilmoqda |
+| **doc.ferris.uz** | Rasmiy "The Rust Book" kitobining o‘zbekcha tarjimasi | 🟢 Online ([doc.ferris.uz](https://doc.ferris.uz)) |
 
 ---
 
